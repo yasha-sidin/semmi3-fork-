@@ -5,3 +5,5 @@ git add
 git --version
 
 git status
+
+patch
