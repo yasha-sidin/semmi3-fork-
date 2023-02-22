@@ -7,3 +7,5 @@ git --version
 git status
 
 patch
+
+изменения от Яши
